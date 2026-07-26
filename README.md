@@ -16,13 +16,13 @@ Full-stack web developer based in **Salt Lake City, Utah** 🏔️ — engineeri
 
 ### 💼 What I do
 
-- 🏦 Shipping full-stack features that power a production banking platform — React + TypeScript front end, Express + PostgreSQL back end
+- 🏦 Building a production banking platform — React + TypeScript front end, Express + PostgreSQL back end
 - ⚙️ Infrastructure as code with **Terraform**, deployed and running on **AWS**
 - 🎭 End-to-end test automation with **Playwright**
 
 ### 🌱 Currently learning
 
-Going deeper on **Terraform & infrastructure as code** — advanced modules, state management, and multi-account AWS setups.
+Going deeper on **Terraform** and **AI**.
 
 ### ⛰️ Off the clock
 
