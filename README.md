@@ -1,6 +1,6 @@
 # Hi, I'm TRP 👋
 
-Full-stack web developer based in **Salt Lake City, Utah** 🏔️ — building software in the banking industry, where I've spent the last few years working on a really awesome banking platform that's taught me a ton.
+Full-stack web developer based in **Salt Lake City, Utah** 🏔️ — engineering software in the banking industry, where I've spent the past several years building and scaling a modern banking platform used in production. Along the way I've deepened my expertise across the full stack, cloud infrastructure, and test automation.
 
 ### 🛠️ Tech Stack
 
@@ -16,7 +16,7 @@ Full-stack web developer based in **Salt Lake City, Utah** 🏔️ — building 
 
 ### 💼 What I do
 
-- 🏦 Full-stack development on a banking platform — React + TypeScript front end, Express + PostgreSQL back end
+- 🏦 Shipping full-stack features that power a production banking platform — React + TypeScript front end, Express + PostgreSQL back end
 - ⚙️ Infrastructure as code with **Terraform**, deployed and running on **AWS**
 - 🎭 End-to-end test automation with **Playwright**
 
